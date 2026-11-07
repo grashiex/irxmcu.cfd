@@ -6,10 +6,10 @@ window.APP_CONFIG = {
   brandLogo: "",
   domains: ["irxmcu.cfd"],
   defaultPrefix: "",
-  defaultPassword: "irxmcu123",
+  defaultPassword: "keke123!",
 
   // OWNER ONLY — never give to Person 1/2/3. Required to change unlock password.
-  ownerPin: "irxmcu-owner",
+  ownerPin: "priveir143!",
 
   contactAdminLabel: "Contact Admin",
   contactAdminLink: "https://t.me/grashiex",
